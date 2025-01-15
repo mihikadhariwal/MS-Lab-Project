@@ -1,4 +1,4 @@
-**Hotel and Flight Booking Application **
+**Hotel and Flight Booking Application**
 
  This project consists of 3 microservices:
  Flight Service
